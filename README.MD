@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<p align="center">
+  <a href="https://app.daily.dev/allan"><img src="https://api.daily.dev/devcards/4b5ca7a2ff3f476d8b3d5c5df6fc2a20.png?r=rit" width="400" alt="Allan Carlos's Dev Card"/></a>
+
+</p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-allan&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-allan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=this-is-allan" alt="this-is-allan" /></a> </p>
